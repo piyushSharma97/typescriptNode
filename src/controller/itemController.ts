@@ -1,4 +1,4 @@
-import { itemModel } from "../models/items.js";
+import { itemModel } from "../models/items";
 import * as middleware from "../middleware/middleware";
 import multiparty from "multiparty";
 import { Request, Response } from "express";
